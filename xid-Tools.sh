@@ -1,28 +1,42 @@
+#mau ngapain mau reqod tools MR_XiD😑
+#izin dulu lah gue cape bikinnya😏
+#MR_XiD
+#Coding By: MR_XiD tamvan se bumi
+daun="\033[32;1m"
+tai="\033[33;1m"
+indigo="\033[34;1m"
+ungu="\033[35;1m"
+cyan="\033[36;1m"
+white="\033[37;1m"
+darah="\033[31;1m"
 clear
-
-
-green='\e[1;32m'
-red='\e[1;31m'
-blue='\e[1;34m'
-purple='\e[1;35m'
-cyan='\e[1;36m'
-white='\e[1;35m'
-yellow='\e[1;33m'
-
-echo -e $red
-figlet "TOOLS  MR_XID"
-echo -e $blue "                   THE TOOL BY MR_XID Thanks to (D35TR0Y SQUAD)   
-echo -e $blue "                    whatsapp 083851312460"
-echo -e $green     "SILAHKAN DI PILIH KAKA "
-echo -e $green     "1-DDOS"
-echo -e $green     "2-WEB HACK"
-echo -e $green     "3-WIFI HACK"
-echo -e $green     "4-PAYLOAD"
-echo -e $green     "5-wordlist"
-echo -e $green     "6-Password Attacks"
-echo -e $green     "7-Tools Root"
-echo -e $green     "8-Other"
-echo ""
+echo
+echo
+echo
+echo
+echo $ungu"================================================================="
+echo
+toilet -f future "   Tools Installer" | lolcat
+echo $daun"                   Coding"$white" By"$MR_XiD":"$daun" MR_XiD"darah"01"
+echo
+echo $ungu"================================================================="
+echo $darah"                      Tools Yg Tersedia😊"
+echo "_________________________________________________________________" | lolcat
+echo $white"01"$tai"."$cyan" Spamer gabungan" $white"                  11"$tai"."$cyan" Fsociety"
+echo $white"02"$tai"."$cyan" Bot komena     " $white"                  12"$tai"."$cyan" Mps youtube"
+echo $white"03"$tai"."$cyan" SpiderBot      " $white"                  13"$tai"."$cyan" Gado-Gado"
+echo $white"04"$tai"."$cyan" Pemulung BTC   " $white"                  14"$tai"."$cyan" Cyber Scan"
+echo $white"05"$tai"."$cyan" Termux-Mpv     " $white"                  15"$tai"."$cyan" Cok-Rat"
+echo $white"06"$tai"."$cyan" Ngrok          " $white"                  16"$tai"."$cyan" Insta Bot"
+echo $white"07"$tai"."$cyan" Hulk           " $white"                  17"$tai"."$cyan" 1337Hash"
+echo $white"08"$tai"."$cyan" Auxscan2.0     " $white"                  18"$tai"."$cyan" Termux-lazysqlmap"
+echo $white"09"$tai"."$cyan" TuyulBtn       " $white"                  19"$tai"."$cyan" Nikto"
+echo $white"10"$tai"."$cyan" Lazymux        " $white"                  20"$tai"."$cyan" Black-Hydra"
+echo "_________________________________________________________________" | lolcat
+echo $darah"["$white"N"$darah"]"$tai"."$daun" NEXT TOOLS" $darah"       ["$white"I"$darah"]"$tai"."$daun" INFORMASI TOOLS" $darah"       ["$white"E"$darah"]"$tai"."$daun" EXIT"
+echo "_________________________________________________________________" | lolcat
+echo $white "╭─"$tai"Chemod"$daun"@"$tai"zrd"$darah"404"$cyan" ~/Home 1"$white
+read -p " ╰─$ " satu
 echo -e $green     "55-YAH KELUAR"
 echo ""
 echo ""
