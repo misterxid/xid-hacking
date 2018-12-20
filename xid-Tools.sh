@@ -10,8 +10,8 @@ white='\e[1;35m'
 yellow='\e[1;33m'
 
 echo -e $red
-figlet "TOOLS LENGKAP BY(MR_XID)D35TR0Y SQUAD)"
-echo -e $blue "                   THE TOOL BY MR_XID"
+figlet "TOOLS BY (MR_XID)"
+echo -e $blue "                   THE TOOL BY MR_XID Thanks to (D35TR0Y SQUAD)   
 echo -e $blue "                    whatsapp 083851312460"
 echo -e $green     "MINE TOOLS"
 echo -e $green     "1-DDOS"
