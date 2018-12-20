@@ -10,10 +10,10 @@ white='\e[1;35m'
 yellow='\e[1;33m'
 
 echo -e $red
-figlet "TOOLS BY (MR_XID)"
+figlet "TOOLS  MR_XID"
 echo -e $blue "                   THE TOOL BY MR_XID Thanks to (D35TR0Y SQUAD)   
 echo -e $blue "                    whatsapp 083851312460"
-echo -e $green     "MINE TOOLS"
+echo -e $green     "SILAHKAN DI PILIH KAKA "
 echo -e $green     "1-DDOS"
 echo -e $green     "2-WEB HACK"
 echo -e $green     "3-WIFI HACK"
@@ -23,7 +23,7 @@ echo -e $green     "6-Password Attacks"
 echo -e $green     "7-Tools Root"
 echo -e $green     "8-Other"
 echo ""
-echo -e $green     "55-exit"
+echo -e $green     "55-YAH KELUAR"
 echo ""
 echo ""
 echo -e $green "Entar the number:"
@@ -363,7 +363,7 @@ read payload
 if [ $payload = 66 ]
 then
 clear
-bash King-Tools.sh
+bash xid-Tools.sh
 fi
 if [ $payload = 1 ]
 then
@@ -447,7 +447,7 @@ fi
 if [ $wordlist = 66 ]
 then
 clear
-bash xid-Tools.sh
+xid-Tools.sh
 fi
 fi
 
@@ -477,7 +477,7 @@ read ddos
 if [ $ddos = 66 ]
 then
 clear
-bash King-Tools.sh
+xid-Tools.sh
 fi
 if [ $ddos = 1 ]
 then
@@ -695,6 +695,7 @@ fi
 
 
 
+
 if [ $mine = 3 ]
 then
 clear
@@ -766,6 +767,7 @@ cd ~
 git clone https://github.com/0x90/wps-scripts.git
 fi
 fi
+
 
 
 
@@ -876,11 +878,11 @@ echo -e $red
 figlet "crunch"
 cd ~
 git clone https://github.com/KURO-CODE/Crunch-Cracker.git
-bash King-Tools.sh
+xid-Tools.sh
 fi
 if [ $wordlist = 66 ]
 then
 clear
-bash xid-Tools.sh
+xid-Tools.sh
 fi
 fi
